@@ -9,7 +9,7 @@ int main()
     int option;
     int num1=0;
     int num2=0;
-
+    int c;
     do{
 
     printf("1. Ingrese Primer  Numero A=%d.\n",num1);
@@ -27,10 +27,10 @@ int main()
     switch(option)
     {
         case 1:
-        sleep(1);
-        printf("HOLA");
 
-        system("clear");
+
+    printf("HOLIWIRIS\m");
+        c = getchar();
         break;
 
 
